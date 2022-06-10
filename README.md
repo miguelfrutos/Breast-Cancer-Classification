@@ -1,6 +1,6 @@
 # Breast-Cancer-Classification
 
-This exercise is part of the excellent course "Browse-based models with Tensorflow.js" with deeplearning.ai and Laurence Moroney.
+This exercise is part of the excellent course ["Browser-based models with Tensorflow.js"](https://www.coursera.org/learn/browser-based-models-tensorflow/home/welcome) with deeplearning.ai and Laurence Moroney available in Coursera.
 
 In this exercise, I will try to build and train a neural network that can predict from new data whether the diagnosis is malignant or benign. To train your network I will be using the given CSV data. The data has already been split into a training and a validation set. Going to the CSV files, you can notice that the first column corresponds to the  ‘diagnosis’ . The values in this column correspond to the diagnosis where a value of 1 indicates a malignant cancer, and a 0 indicates a benign one. Try to build a model that gives a very high accuracy on the test data.
 
